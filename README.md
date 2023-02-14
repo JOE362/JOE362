@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ started Programming at 12 and created many programs by using VB.net and C# <br>📚 I'm currently learning Competitive programming <br>🎯 Goals: To become a powerful software engineer<br>🎲 Fun fact: I don't have a fun fact :D<br><br>you can get to know me more through my CV</p>
+<p align="left">✨ started Programming at 12 and created many programs by using VB.net and C# <br>📚 I'm currently learning Competitive programming <br>🎯 Goals: To become a powerful software engineer<br>👀 Looking for an internship<br>🎲 Fun fact: I don't have a fun fact :D<br><br>you can get to know me more through my CV</p>
 
 ###
 
