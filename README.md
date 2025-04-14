@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# New Document<h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
   My name is Youssif and I'm a fourth-year Computer Science student at Shorouk
@@ -20,11 +20,8 @@
   Learn more about me through my
   <a
     href="https://drive.google.com/file/d/1af3WppIY5hWbSgbeDc0LwEzT3kO7OA0I/view?usp=share_link"
-    target="_blank"
-    >CV</a
-  > or <a href="https://linkedin.com/in/youssif-ahmed-792a12249" target="_blank"
-    >LinkedIn</a
-  >
+    target="_blank">CV</a> or <a href="https://linkedin.com/in/youssif-ahmed-792a12249" target="_blank"
+    >LinkedIn</a>
 </p>
 
 <div class="section">
