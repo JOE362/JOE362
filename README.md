@@ -40,8 +40,8 @@ target="_blank">CV</a> or
 ### Frameworks
 
 <div align="center">  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<img style="margin: 10px" src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" alt="Express.js" height="50" /> 
+<img style="margin: 10px" src="https://nodejs.org/static/logos/nodejsStackedDark.svg" alt="Node.js" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
