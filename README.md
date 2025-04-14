@@ -236,32 +236,6 @@
       </div>
     </a>
     <a
-      href="https://github.com/JOE362"
-      target="_blank"
-      style="text-decoration: none; color: #333"
-    >
-      <div
-        class="social-card"
-        style="
-          padding: 10px;
-          border: 1px solid #ddd;
-          border-radius: 8px;
-          text-align: center;
-          min-width: 80px;
-        "
-      >
-        <img
-          src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg"
-          height="20"
-          width="20"
-          alt="GitHub"
-        />
-        <span style="display: block; margin-top: 5px; font-size: 12px"
-          >GitHub</span
-        >
-      </div>
-    </a>
-    <a
       href="https://codeforces.com/profile/JOE002"
       target="_blank"
       style="text-decoration: none; color: #333"
