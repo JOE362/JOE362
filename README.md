@@ -8,335 +8,74 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">
-  ✨ Started programming at 12, creating Windows applications with VB.net and
-  C#.<br />
-  📚 Currently studying backend engineering with expertise in Express.js,
-  Node.js, and PostgreSQL.<br />
-  🎯 Goals: To become a software engineer specializing in large-scale, optimized
-  systems.<br />
-  👀 Looking for backend engineering internships.<br /><br />
+✨ Started programming at 12, creating Windows applications with VB.net and
+C#.<br />
+📚 Currently studying backend engineering with expertise in Express.js,
+Node.js, and PostgreSQL.<br />
+🎯 Goals: To become a software engineer specializing in large-scale, optimized
+systems.<br />
+👀 Looking for backend engineering internships.<br /><br />
 
-  Learn more about me through my
-  <a
-    href="https://drive.google.com/file/d/1af3WppIY5hWbSgbeDc0LwEzT3kO7OA0I/view?usp=share_link"
-    target="_blank">CV</a> or <a href="https://linkedin.com/in/youssif-ahmed-792a12249" target="_blank"
-    >LinkedIn</a>
-</p>
+Learn more about me through my
+<a href="https://drive.google.com/file/d/1af3WppIY5hWbSgbeDc0LwEzT3kO7OA0I/view?usp=share_link"
+target="_blank">CV</a> or
+<a href="https://linkedin.com/in/youssif-ahmed-792a12249" target="_blank">LinkedIn</a>
 
-<div class="section">
-  <h2>My Tech Stack</h2>
-  <div
-    class="tech-container"
-    style="
-      display: flex;
-      justify-content: space-between;
-      gap: 20px;
-      flex-wrap: wrap;
-    "
-  >
-    <div
-      class="tech-group"
-      style="
-        flex: 1;
-        min-width: 150px;
-        padding: 15px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        text-align: center;
-      "
-    >
-      <h3>Programming Languages</h3>
-      <ul
-        class="tech-list"
-        style="
-          list-style: none;
-          padding: 0;
-          margin: 0;
-          display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-          gap: 10px;
-        "
-      >
-        <li style="display: flex; flex-direction: column; align-items: center">
-          <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg"
-            height="30"
-            width="30"
-            alt="JavaScript"
-          />
-          <span>JavaScript</span>
-        </li>
-        <li style="display: flex; flex-direction: column; align-items: center">
-          <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/csharp.svg"
-            height="30"
-            width="30"
-            alt="C#"
-          />
-          <span>C#</span>
-        </li>
-        <li style="display: flex; flex-direction: column; align-items: center">
-          <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg"
-            height="30"
-            width="30"
-            alt="C++"
-          />
-          <span>C++</span>
-        </li>
-        <li style="display: flex; flex-direction: column; align-items: center">
-          <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg"
-            height="30"
-            width="30"
-            alt="Python"
-          />
-          <span>Python</span>
-        </li>
-      </ul>
-    </div>
-    <div
-      class="tech-group"
-      style="
-        flex: 1;
-        min-width: 150px;
-        padding: 15px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        text-align: center;
-      "
-    >
-      <h3>Frameworks</h3>
-      <ul
-        class="tech-list"
-        style="
-          list-style: none;
-          padding: 0;
-          margin: 0;
-          display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-          gap: 10px;
-        "
-      >
-        <li style="display: flex; flex-direction: column; align-items: center">
-          <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodedotjs.svg"
-            height="30"
-            width="30"
-            alt="Node.js"
-          />
-          <span>Node.js</span>
-        </li>
-        <li style="display: flex; flex-direction: column; align-items: center">
-          <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg"
-            height="30"
-            width="30"
-            alt="Express.js"
-          />
-          <span>Express.js</span>
-        </li>
-      </ul>
-    </div>
-    <div
-      class="tech-group"
-      style="
-        flex: 1;
-        min-width: 150px;
-        padding: 15px;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        text-align: center;
-      "
-    >
-      <h3>Other Technologies</h3>
-      <ul
-        class="tech-list"
-        style="
-          list-style: none;
-          padding: 0;
-          margin: 0;
-          display: grid;
-          grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-          gap: 10px;
-        "
-      >
-        <li style="display: flex; flex-direction: column; align-items: center">
-          <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg"
-            height="30"
-            width="30"
-            alt="PostgreSQL"
-          />
-          <span>PostgreSQL</span>
-        </li>
-        <li style="display: flex; flex-direction: column; align-items: center">
-          <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/rabbitmq.svg"
-            height="30"
-            width="30"
-            alt="RabbitMQ"
-          />
-          <span>RabbitMQ</span>
-        </li>
-        <li style="display: flex; flex-direction: column; align-items: center">
-          <img
-            src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg"
-            height="30"
-            width="30"
-            alt="Git"
-          />
-          <span>Git</span>
-        </li>
-        <!-- Add more technologies here -->
-      </ul>
-    </div>
-  </div>
+## My Tech Stack
+
+<table><tr><td valign="top" width="33%">
+
+### Programming Languages
+
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-<div class="section">
-  <h2>Socials</h2>
-  <div
-    class="socials-container"
-    style="
-      display: flex;
-      justify-content: flex-start;
-      gap: 15px;
-      flex-wrap: wrap;
-    "
-  >
-    <a
-      href="https://linkedin.com/in/youssif-ahmed-792a12249"
-      target="_blank"
-      style="text-decoration: none; color: #333"
-    >
-      <div
-        class="social-card"
-        style="
-          padding: 10px;
-          border: 1px solid #ddd;
-          border-radius: 8px;
-          text-align: center;
-          min-width: 80px;
-        "
-      >
-        <img
-          src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"
-          height="20"
-          width="20"
-          alt="LinkedIn"
-        />
-        <span style="display: block; margin-top: 5px; font-size: 12px"
-          >LinkedIn</span
-        >
-      </div>
-    </a>
-    <a
-      href="https://codeforces.com/profile/JOE002"
-      target="_blank"
-      style="text-decoration: none; color: #333"
-    >
-      <div
-        class="social-card"
-        style="
-          padding: 10px;
-          border: 1px solid #ddd;
-          border-radius: 8px;
-          text-align: center;
-          min-width: 80px;
-        "
-      >
-        <img
-          src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg"
-          height="20"
-          width="20"
-          alt="Codeforces"
-        />
-        <span style="display: block; margin-top: 5px; font-size: 12px"
-          >Codeforces</span
-        >
-      </div>
-    </a>
-    <a
-      href="mailto:joahmed002@gmail.com"
-      style="text-decoration: none; color: #333"
-    >
-      <div
-        class="social-card"
-        style="
-          padding: 10px;
-          border: 1px solid #ddd;
-          border-radius: 8px;
-          text-align: center;
-          min-width: 80px;
-        "
-      >
-        <img
-          src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg"
-          height="20"
-          width="20"
-          alt="Email"
-        />
-        <span style="display: block; margin-top: 5px; font-size: 12px"
-          >Email</span
-        >
-      </div>
-    </a>
-    <a
-      href="https://wa.me/+201556848012"
-      target="_blank"
-      style="text-decoration: none; color: #333"
-    >
-      <div
-        class="social-card"
-        style="
-          padding: 10px;
-          border: 1px solid #ddd;
-          border-radius: 8px;
-          text-align: center;
-          min-width: 80px;
-        "
-      >
-        <img
-          src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg"
-          height="20"
-          width="20"
-          alt="WhatsApp"
-        />
-        <span style="display: block; margin-top: 5px; font-size: 12px"
-          >WhatsApp</span
-        >
-      </div>
-    </a>
-    <a
-      href="https://discord.com/users/248520680142798849"
-      target="_blank"
-      style="text-decoration: none; color: #333"
-    >
-      <div
-        class="social-card"
-        style="
-          padding: 10px;
-          border: 1px solid #ddd;
-          border-radius: 8px;
-          text-align: center;
-          min-width: 80px;
-        "
-      >
-        <img
-          src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg"
-          height="20"
-          width="20"
-          alt="Discord"
-        />
-        <span style="display: block; margin-top: 5px; font-size: 12px"
-          >Discord</span
-        >
-      </div>
-    </a>
-  </div>
+</td><td valign="top" width="33%">
+
+### Frameworks
+
+<div align="center">  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 </div>
+
+</td><td valign="top" width="33%">
+
+### Other Technologies
+
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
+
+</td></tr></table>
+
+## Connect with me  
+<div align="left">
+<a href="https://linkedin.com/in/youssif-ahmed-792a12249" target="_blank">
+<img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg alt=linkedin style="margin-bottom: 5px;" height="50" />
+</a>
+<a href="https://codeforces.com/profile/JOE002" target="_blank">
+<img src=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg alt=codeforces style="margin-bottom: 5px;" height="50" />
+</a>
+<a href="mailto:joahmed002@gmail.com" target="_blank">
+<img src=https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000 alt=gmail style="margin-bottom: 5px;" height="50" />
+</a>
+<a href="https://wa.me/+201556848012" target="_blank">
+<img src=https://img.icons8.com/?size=100&id=16713&format=png&color=000000 alt=Whatsapp style="margin-bottom: 5px;" height="50" />
+</a>
+<a href="https://discord.com/users/248520680142798849" target="_blank">
+<img src=https://img.icons8.com/?size=100&id=30998&format=png&color=000000 alt=Discord style="margin-bottom: 5px;" height="50" />
+</a> 
+</div>  
 
 <h2>Stats</h2>
 <div align="center">
