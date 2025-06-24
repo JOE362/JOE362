@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  My name is Youssif and I'm a fourth-year Computer Science student at Shorouk
+  My name is Youssif and I'm a Computer Science gradute at Shorouk
   Academy, Egypt. I'm a competitive programmer, a backend-focused software
   engineer, and passionate about building scalable systems.
 </p>
