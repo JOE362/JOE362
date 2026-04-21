@@ -1,27 +1,42 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  My name is Youssif and I'm a Computer Science gradute at Shorouk
-  Academy, Egypt. I'm a competitive programmer, a backend-focused software
-  engineer, and passionate about building scalable systems.
+  My name is Youssif, a Computer Science graduate from Shorouk Academy, Egypt. 
+  I'm a backend and DevOps engineer focused on building scalable, reliable systems 
+  and internal platforms. I also have a strong background in competitive programming 
+  and problem solving.
 </p>
 
 <h2 align="left">About me</h2>
 
-✨ Started programming at 12, creating Windows applications with VB.net and
-C#.<br />
-📚 Currently studying backend engineering with expertise in Express.js,
-Node.js, and PostgreSQL.<br />
-🎯 Goals: To become a software engineer specializing in large-scale, optimized
-systems.<br />
-👀 Looking for backend engineering internships.<br /><br />
+✨ Started programming at 12, building Windows applications using VB.net and C#.<br />
+🏗️ Currently working as a DevOps & Backend Engineer, building multi-tenant infrastructure, internal tooling, and data pipelines.<br />
+⚙️ Experienced in designing CI/CD pipelines, observability systems, and automation workflows.<br />
+📚 Backend experience with Node.js, Express.js, NestJS, and relational databases.<br />
+🎯 Focused on Platform Engineering, System Design, and scalable distributed systems.<br />
+<br />
 
 Learn more about me through my
 <a href="https://drive.google.com/file/d/1af3WppIY5hWbSgbeDc0LwEzT3kO7OA0I/view?usp=share_link"
 target="_blank">CV</a> or
 <a href="https://linkedin.com/in/youssif-ahmed-792a12249" target="_blank">LinkedIn</a>
 
-## My Tech Stack
+---
+
+## 🚀 What I Work On
+
+- 🔧 Internal platform tooling (CLI-based infrastructure automation)
+- 🧱 Multi-tenant VPS infrastructure & system design
+- 📦 Containerized systems and background processing (Docker)
+- 📊 Observability stacks (Prometheus, Loki, Grafana)
+- 🔄 CI/CD pipelines and deployment automation
+- 🗄️ Database operations (backup, recovery, multi-engine support)
+- 🖼️ Data ingestion pipelines and async processing
+
+---
+
+## 🛠️ Tech Stack
+
 
 <table><tr><td valign="top" width="33%">
 
@@ -37,28 +52,55 @@ target="_blank">CV</a> or
 
 </td><td valign="top" width="33%">
 
-### Frameworks
+### Backend & Frameworks
 
 <div align="center">  
-<img style="margin: 10px" src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" alt="Express.js" height="50" /> 
-<img style="margin: 10px" src="https://nodejs.org/static/logos/nodejsStackedDark.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://nodejs.org/static/logos/nodejsStackedDark.svg" alt="NodeJS" height="50" />
+<img style="margin: 10px" src="https://kinsta.com/wp-content/uploads/2022/04/express-1.png" alt="ExpressJS" height="50" /> 
+<img style="margin: 10px" src="https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="NestJS" height="50" /> 
 </div>
 
 </td><td valign="top" width="33%">
 
-### Other Technologies
+### DevOps & Infrastructure
 
 <div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /> 
 </div>
 
 </td></tr></table>
 
-## Connect with me  
+---
+
+<table><tr><td valign="top" width="50%">
+
+### Databases & Messaging
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" />
+</div>
+
+</td><td valign="top" width="50%">
+
+### Observability
+
+<div align="center">  
+<img style="margin: 10px" src="https://grafana.com/static/img/menu/grafana2.svg" alt="Grafana" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" alt="Loki" height="50" />
+<img style="margin: 10px" src="https://prometheus.io/_next/static/media/prometheus-logo.7aa022e5.svg" alt="Prometheus" height="50" />
+</div>
+
+</td></tr></table>
+
+---
+
+## 🌐 Connect with me  
 <div align="left">
 <a href="https://linkedin.com/in/youssif-ahmed-792a12249" target="_blank">
 <img src=https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg alt=linkedin style="margin-bottom: 5px;" height="50" />
@@ -77,16 +119,8 @@ target="_blank">CV</a> or
 </a> 
 </div>  
 
-<h2>Stats</h2>
+## 📊 Stats
+
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=JOE362"
-    height="150"
-    alt="stats graph"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=JOE362"
-    height="150"
-    alt="languages graph"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JOE362&theme=dracula&hide_border=false" height="150" />
 </div>
